@@ -1,5 +1,5 @@
 streamlit
 seaborn
 matplotlib
-sckit-learn
+scikit-learn
 openpyxl
