@@ -2,5 +2,4 @@ streamlit
 seaborn
 matplotlib
 sckit-learn
-
 openpyxl
